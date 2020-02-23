@@ -1,0 +1,11 @@
+C:\Users\MINH TUAN\Desktop\Phần Mềm File Chính Thức\QLCP\QLCP\bin\Debug\QLCP.exe.config
+C:\Users\MINH TUAN\Desktop\Phần Mềm File Chính Thức\QLCP\QLCP\bin\Debug\QLCP.exe
+C:\Users\MINH TUAN\Desktop\Phần Mềm File Chính Thức\QLCP\QLCP\bin\Debug\QLCP.pdb
+C:\Users\MINH TUAN\Desktop\Phần Mềm File Chính Thức\QLCP\QLCP\obj\Debug\QLCP.csprojAssemblyReference.cache
+C:\Users\MINH TUAN\Desktop\Phần Mềm File Chính Thức\QLCP\QLCP\obj\Debug\QLCP.fLogin.resources
+C:\Users\MINH TUAN\Desktop\Phần Mềm File Chính Thức\QLCP\QLCP\obj\Debug\QLCP.fManagercs.resources
+C:\Users\MINH TUAN\Desktop\Phần Mềm File Chính Thức\QLCP\QLCP\obj\Debug\QLCP.Properties.Resources.resources
+C:\Users\MINH TUAN\Desktop\Phần Mềm File Chính Thức\QLCP\QLCP\obj\Debug\QLCP.csproj.GenerateResource.cache
+C:\Users\MINH TUAN\Desktop\Phần Mềm File Chính Thức\QLCP\QLCP\obj\Debug\QLCP.csproj.CoreCompileInputs.cache
+C:\Users\MINH TUAN\Desktop\Phần Mềm File Chính Thức\QLCP\QLCP\obj\Debug\QLCP.exe
+C:\Users\MINH TUAN\Desktop\Phần Mềm File Chính Thức\QLCP\QLCP\obj\Debug\QLCP.pdb
